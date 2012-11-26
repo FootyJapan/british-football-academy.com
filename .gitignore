@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+!.gitignore
+BritishFootballAcademy.sublime-project
+BritishFootballAcademy.sublime-workspace
