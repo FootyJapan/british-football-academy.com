@@ -85,7 +85,7 @@ Date Created    : Monday 20 September 2004 11:53:24
 									<table class="c6" border="0" width="660" cellspacing="0" cellpadding="5" align="center" bordercolor="#FF0000">
 										<tr>
 											<td colspan="3">
-												<p class="men"><img src="../../images/mats/spacer.gif" width="10" height="12" align="bottom" /><a href="registration.php" class="content">Registration</a> | <b class="red">Camp Registration</b></p>
+												<p class="men"><img src="../../images/mats/spacer.gif" width="10" height="12" align="bottom" /><a href="registration.html" class="content">Registration</a> | <b class="red">Camp Registration</b></p>
 											</td>
 										</tr>
 										<tr>
@@ -216,7 +216,7 @@ Date Created    : Monday 20 September 2004 11:53:24
                                                             $message .= "PHONE: ".$_POST['phone']."\n";
                                                             $message .= "ADDRESS: ".$_POST['address']."\n";
                                                             $message .= "AGE: ".$_POST['age']."\n";
-                                                            
+
                                                             $headers  = "From: ".$_POST['name']." <".$_POST['email'].">\n";
                                                             $headers .= "Reply-To: ".$_POST['name']." <".$_POST['email'].">\n";
                                                             $headers .= "X-Sender: <".$_POST['email'].">\n";

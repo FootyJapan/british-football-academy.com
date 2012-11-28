@@ -99,7 +99,7 @@
 												<p>
                                                     Please fill out all the following information then click the &#39;send&#39; button.<br />
 												</p>
-												<form action="registration.php?form=true" method="post">
+												<form action="registration.html?form=true" method="post">
 													<table border="0" width="590" cellpadding="0">
 														<tr>
 															<td rowspan="2">
